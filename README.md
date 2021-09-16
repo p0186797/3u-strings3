@@ -1,6 +1,5 @@
 # 3u-strings3
-
-Write a program that reads a string from the user and outputs the number of vowels in the string.
+Write a program that reads a string from the user and outputs the string without vowels.
 
 # Input Specification
 Any string
